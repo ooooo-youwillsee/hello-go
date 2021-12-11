@@ -1,10 +1,9 @@
 package main
 
 import (
-    "ooooo/greetings"
+	"github.com/ooooo-youwillsee/hello-go/00-module/greetings"
 )
 
-
 func main() {
-    hello.Hello("12321")
+	hello.Hello("12321")
 }
